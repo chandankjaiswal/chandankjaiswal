@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandankjaiswal
-- 👀 I’m interested in Software Developer and Teaching for Any Programming.
+- 👀 I’m interested in Software Developer and Teaching.
 - 🌱 I’m currently Learning New Technology.
 - 💞️ I’m looking for New Opportunity.
 - 📫 How to reach me ... https://cs-vision.teachmint.in/
